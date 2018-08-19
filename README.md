@@ -1,6 +1,5 @@
 # Usage examples
 
-
 ```bash
 docker run -it --rm rabotaua/ansible ansible localhost -m ping
 ```

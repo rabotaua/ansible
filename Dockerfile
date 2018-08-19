@@ -4,4 +4,5 @@ RUN  pip install ansible==2.6.2
 
 WORKDIR /code
 
+# https://docs.ansible.com/ansible/latest/reference_appendices/config.html
 ENV ANSIBLE_HOST_KEY_CHECKING false
